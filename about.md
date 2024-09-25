@@ -36,7 +36,13 @@ I contributed to a variety of sectors, including e-commerce, industry, public se
 
 ## Developing my data scientist assistant, Clara AI
 
+Introducing Clara AI, my AI data scientist assistant designed to help me save time by generating machine learning code in real-time with a guided, step-by-step tool.
+
+I have meticulously crafted each step in machine learning pipeline, and, I can ask Clara to generate code using a large language model (LLM).
+
 ![Gif](/assets/img/blog/claraai.gif){:.lead width="1500" height="600"}
+
+With Clara AI, I can build a machine learning code in a matter of hours, not days or weeks, all through a guided, step-by-step process.
 
 ## Graduated from Mines Paris (Diplôme d'Ingénieur)
 
