@@ -1,0 +1,18 @@
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/posix-spawn-0.3.15/ext
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= sitearchdir\=./.gem.20240925-32832-6rqcwd sitelibdir\=./.gem.20240925-32832-6rqcwd clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= sitearchdir\=./.gem.20240925-32832-6rqcwd sitelibdir\=./.gem.20240925-32832-6rqcwd
+make: Nothing to be done for 'default'.
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= sitearchdir\=./.gem.20240925-32832-6rqcwd sitelibdir\=./.gem.20240925-32832-6rqcwd install
+make: Nothing to be done for 'install'.
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= sitearchdir\=./.gem.20240925-32832-6rqcwd sitelibdir\=./.gem.20240925-32832-6rqcwd clean
+make: *** No rule to make target 'clean'.  Stop.

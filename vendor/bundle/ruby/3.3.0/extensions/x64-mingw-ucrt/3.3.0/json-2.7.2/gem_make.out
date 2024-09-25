@@ -1,0 +1,16 @@
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240925-42660-yak486 sitelibdir\=./.gem.20240925-42660-yak486 clean
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240925-42660-yak486 sitelibdir\=./.gem.20240925-42660-yak486
+make: Nothing to be done for 'all'.
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240925-42660-yak486 sitelibdir\=./.gem.20240925-42660-yak486 install
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240925-42660-yak486 sitelibdir\=./.gem.20240925-42660-yak486 clean

@@ -1,0 +1,20 @@
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/fast-stemmer-1.0.2/ext
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/fast-stemmer-1.0.2/ext
+make DESTDIR\= sitearchdir\=./.gem.20240925-32832-3l01vo sitelibdir\=./.gem.20240925-32832-3l01vo clean
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/fast-stemmer-1.0.2/ext
+make DESTDIR\= sitearchdir\=./.gem.20240925-32832-3l01vo sitelibdir\=./.gem.20240925-32832-3l01vo
+generating stemmer-x64-mingw-ucrt.def
+compiling porter.c
+compiling porter_wrap.c
+linking shared-object stemmer.so
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/fast-stemmer-1.0.2/ext
+make DESTDIR\= sitearchdir\=./.gem.20240925-32832-3l01vo sitelibdir\=./.gem.20240925-32832-3l01vo install
+/usr/bin/install -c -m 0755 stemmer.so ./.gem.20240925-32832-3l01vo
+
+current directory: C:/Users/pierr/pierresamaha1998.github.io/vendor/bundle/ruby/3.3.0/gems/fast-stemmer-1.0.2/ext
+make DESTDIR\= sitearchdir\=./.gem.20240925-32832-3l01vo sitelibdir\=./.gem.20240925-32832-3l01vo clean
