@@ -42,6 +42,8 @@ I have meticulously crafted each step in machine learning pipeline, and, I can a
 
 ![Gif](/assets/img/blog/claraai.gif){:.lead width="1500" height="600"}
 
+[Full link with explanations]
+
 With Clara AI, I can build a machine learning code in a matter of hours, not days or weeks, all through a guided, step-by-step process.
 
 ## Graduated from Mines Paris (Diplôme d'Ingénieur)
@@ -60,10 +62,12 @@ I have also completed smaller internships in Lebanon, where I focused on custome
 
 ## Hackathon Enthusiast and Winner
 
-I clinched the Special Jury Prize at the month-long innovation hackathon hosted by IBM in partnership with Amazon Web Services (AWS)! Our team delved into the fascinating realm of Artificial Intelligence, leveraging AWS's generative AI to tackle a critical challenge: enhancing search engine capabilities.
+- I clinched the Special Jury Prize at the month-long innovation hackathon hosted by IBM in partnership with Amazon Web Services (AWS)! Our team delved into the fascinating realm of Artificial Intelligence, leveraging AWS's generative AI to tackle a critical challenge: enhancing search engine capabilities.
 
 ![Screenshot](/assets/img/blog/IBMhackathon.jpg){:.lead width="1500" height="600" loading="lazy"}
 
-I also won the Open Science Data Challenge 2023 hosted by EY, where I predicted the yield of rice crops using satellite data. I was one of the 3 finalists in the EY Data Challenge France!
+- I also won the Open Science Data Challenge 2023 hosted by EY, where I predicted the yield of rice crops using satellite data. I was one of the 3 finalists in the EY Data Challenge France!
 
-Additionally, I won first prize in another challenge during a course at Mines Paris. The challenge involved precise segmentation of pre-detected aneurysms using real-life image data from a hospital.
+- Additionally, I won first prize in another challenge during a course at Mines Paris. The challenge involved precise segmentation of pre-detected aneurysms using real-life image data from a hospital.
+
+[Full link with explanations]: https://x.com/ClaraJuniorDS/status/1838533934226821583
