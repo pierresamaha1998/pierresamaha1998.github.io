@@ -36,9 +36,7 @@ I contributed to a variety of sectors, including e-commerce, industry, public se
 
 ## Developing my data scientist assistant, Clara AI
 
-![Gif](/assets/img/blog/claraai.gif){:.lead width="1500" height="600" loading="lazy"}
-
-![Screenshot](/assets/img/blog/claraai.png){:.lead width="1500" height="600" loading="lazy"}
+![Gif](/assets/img/blog/claraai.gif){:.lead width="1500" height="600"}
 
 ## Graduated from Mines Paris (Diplôme d'Ingénieur)
 
@@ -63,5 +61,3 @@ I clinched the Special Jury Prize at the month-long innovation hackathon hosted 
 I also won the Open Science Data Challenge 2023 hosted by EY, where I predicted the yield of rice crops using satellite data. I was one of the 3 finalists in the EY Data Challenge France!
 
 Additionally, I won first prize in another challenge during a course at Mines Paris. The challenge involved precise segmentation of pre-detected aneurysms using real-life image data from a hospital.
-
-## Certification and Personal Growth
