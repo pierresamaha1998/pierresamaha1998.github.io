@@ -33,37 +33,29 @@ I contributed to a variety of sectors, including e-commerce, industry, public se
 - Client Collaboration: Worked closely with clients to thoroughly understand their needs and objectives, translating them into effective design solutions that align with their business goals.
 
 - Sustainability Initiatives: Contributed to decreasing CO2 emissions in IBM client projects by developing environmentally friendly AI solutions.
-  {:.lead}
 
 1. this list will be replaced by the toc
    {:toc .large-only}
 
-**Hydejack** is a boutique [Jekyll] theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress.
-
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
-
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-> {:.lead}
-
-## A Personal Site That Won't Disappear
+## Graduate of Mines Paris (Diplôme d'Ingénieur)
 
 **Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
 Hydejack is all static sites. _HTML_. All you need is a web server — any web server — to have a professional web presence that lasts a lifetime.
 
-## A Free Blogging Theme
+## International Internship Experience
 
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
 
 <!--posts-->
 
-## An Impressive Portfolio
+## Hackathon Enthusiast and Winner
 
 A portfolio that's guaranteed to be impressive — no matter what you put into it.
 
 <!--projects-->
 
-## A Printable Resume
+## Certification and Personal Growth
 
 Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](/assets/Resume.pdf).
 
