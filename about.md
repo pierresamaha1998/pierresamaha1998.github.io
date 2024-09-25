@@ -36,7 +36,7 @@ I contributed to a variety of sectors, including e-commerce, industry, public se
 
 ## Developing my data scientist assistant, Clara AI
 
-![Screenshot](/assets/img/blog/claraai.mp4){:.lead width="1500" height="600" loading="lazy"}
+![Gif](/assets/img/blog/claraai.mp4){:.lead width="1500" height="600" loading="lazy"}
 
 ## Graduated from Mines Paris (Diplôme d'Ingénieur)
 
@@ -46,13 +46,10 @@ Mines Paris is recognized as one of the premier engineering schools in France. I
 
 I have completed two international internships that have enriched my practical experience in the field.
 
-![Screenshot](/assets/img/blog/Norway.jpg){:.lead width="20" height="15" loading="lazy"}
 My second internship was at a real estate startup in Norway, where the objective was to predict apartment prices in Oslo using AI. I took on comprehensive responsibilities throughout the project, from data acquisition and preprocessing to deploying the final solution. This experience enhanced my skills in end-to-end project management and deepened my understanding of applying AI in the real estate sector.
 
-![Screenshot](/assets/img/blog/Switzerland.png){:.lead width="15" height="15" loading="lazy"}
 The first was with Swissgrid, a transmission system operator in Switzerland, where I designed and developed an AI solution utilizing Natural Language Processing (NLP) and Unsupervised Machine Learning techniques. This solution effectively segmented alarm descriptions from the grid, significantly improving the management of substation alarms for operators in the control room.
 
-![Screenshot](/assets/img/blog/Lebanon.jpg){:.lead width="20" height="15" loading="lazy"}
 I have also completed smaller internships in Lebanon, where I focused on customer segmentation for a telecommunications company and predicting customer churn. Additionally, I utilized Roboflow to develop AI solutions tailored for the banking sector.
 
 ## Hackathon Enthusiast and Winner
