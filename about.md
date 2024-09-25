@@ -36,7 +36,9 @@ I contributed to a variety of sectors, including e-commerce, industry, public se
 
 ## Developing my data scientist assistant, Clara AI
 
-![Gif](/assets/img/blog/claraai.mp4){:.lead width="1500" height="600" loading="lazy"}
+![Gif](/assets/img/blog/claraai.gif){:.lead width="1500" height="600" loading="lazy"}
+
+![Screenshot](/assets/img/blog/claraai.png){:.lead width="1500" height="600" loading="lazy"}
 
 ## Graduated from Mines Paris (Diplôme d'Ingénieur)
 
