@@ -27,7 +27,7 @@ description: >
   Data Scientist with a robut background, including a Master's Degree in Engineering from Mines Paris (Diplôme d'Ingénieur) and a proven track record at IBM across diverse domains, including industry, finance, real estate, energy, public work and e-commerce. Currently developing Clara AI, an assistant data scientist designed to streamline code writing and enhance AI-driven solutions. Passionate about advancing the AI field, I focus on creating innovative tools that help businesses harness the full potential of AI for growth and efficiency. My aim is to push the boundaries of AI, automating processes and unlocking new opportunities for organizations
 
 # A shorter description for the sidebar.
-tagline: Machine Learning, Data & AI | Entrepreneur
+tagline: Data, ML & AI | Entrepreneur
 
 # A list of keywords for your blog
 keywords: []
@@ -75,7 +75,7 @@ paginate_path: /:num/
 
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
 #theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack
+remote_theme: hydecorp/hydejack@v9
 favicon: /assets/img/favicon.ico
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the
@@ -87,7 +87,7 @@ favicon: /assets/img/favicon.ico
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image: /assets/img/sidebar.png
+accent_image: /assets/img/sidebar.jpg
 accent_color: rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
