@@ -9,13 +9,13 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
     Data Scientist with a rich background, including a Master's Degree in Engineering from Mines Paris (Diplôme d'Ingénieur) and a proven track record at IBM.
-    Currently developing Clara AI, an assistant data scientist designed to streamline code writing and enhance AI-driven solutions. 
+    Currently developing Clara AI, an assistant data scientist that helps me to streamline code writing and enhance AI-driven solutions. 
     Passionate about advancing the AI field, I focus on creating innovative tools that help businesses harness the full potential of AI for growth and efficiency. 
     My aim is to push the boundaries of AI, automating processes and unlocking new opportunities for organizations.
 
   # This photo will be used in the about section
   picture:
-    path: https://via.placeholder.com/128x128
+    path: /assets/img/logo.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x: https://via.placeholder.com/128x128
