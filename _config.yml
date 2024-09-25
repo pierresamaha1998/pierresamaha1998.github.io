@@ -19,16 +19,15 @@
 lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Starter Kit
+title: SAMAHA Pierre
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Data Scientist with a robut background, including a Master's Degree in Engineering from Mines Paris (Diplôme d'Ingénieur) and a proven track record at IBM across diverse domains, including industry, finance, real estate, energy, public work and e-commerce. Currently developing Clara AI, an assistant data scientist designed to streamline code writing and enhance AI-driven solutions. Passionate about advancing the AI field, I focus on creating innovative tools that help businesses harness the full potential of AI for growth and efficiency. My aim is to push the boundaries of AI, automating processes and unlocking new opportunities for organizations
 
 # A shorter description for the sidebar.
-tagline: Change `tagline` in `_config.yml`
+tagline: Machine Learning, Data & AI | Entrepreneur
 
 # A list of keywords for your blog
 keywords: []
@@ -41,29 +40,25 @@ logo: /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name: <firstname> <lastname>
-  email: <mail@domain.tld>
+  name: Pierre Samaha
+  email: pierre_samaha@hotmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title: Example
+  - title: Blogs
     url: /example/
-  - title: Documentation
-    url: /docs/
   - title: About
     url: /about/
+  - title: My Newsletter
+    url: https://pierreai.substack.com
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title: LICENSE
     url: /LICENSE/
-  - title: NOTICE
-    url: /NOTICE/
-  - title: CHANGELOG
-    url: /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: © 2024. All rights reserved.
@@ -81,6 +76,7 @@ paginate_path: /:num/
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
 #theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack
+favicon: /assets/img/favicon.ico
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
@@ -91,7 +87,7 @@ remote_theme: hydecorp/hydejack
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image: /assets/img/sidebar-bg.jpg
+accent_image: /assets/img/sidebar.png
 accent_color: rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
