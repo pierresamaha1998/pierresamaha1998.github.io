@@ -2,7 +2,7 @@
 layout: post
 title: New Classification Method you Probably Haven't Heard of
 image:
-  path: /assets/img/blog/Sustainability.jpg
+  path: /assets/img/blog/optionclassification.jpg
 description: >
   New Approach to Classification Based on Transformers, LLM, and Embedding
 sitemap: false
