@@ -54,9 +54,9 @@ Mines Paris is recognized as one of the premier engineering schools in France. I
 
 I have completed two international internships that have enriched my practical experience in the field.
 
-My second internship was at a real estate startup in Norway, where the objective was to predict apartment prices in Oslo using AI. I took on comprehensive responsibilities throughout the project, from data acquisition and preprocessing to deploying the final solution. This experience enhanced my skills in end-to-end project management and deepened my understanding of applying AI in the real estate sector.
-
 The first was with Swissgrid, a transmission system operator in Switzerland, where I designed and developed an AI solution utilizing Natural Language Processing (NLP) and Unsupervised Machine Learning techniques. This solution effectively segmented alarm descriptions from the grid, significantly improving the management of substation alarms for operators in the control room.
+
+My second internship was at a real estate startup in Norway, where the objective was to predict apartment prices in Oslo using AI. I took on comprehensive responsibilities throughout the project, from data acquisition and preprocessing to deploying the final solution. This experience enhanced my skills in end-to-end project management and deepened my understanding of applying AI in the real estate sector.
 
 I have also completed smaller internships in Lebanon, where I focused on customer segmentation for a telecommunications company and predicting customer churn. Additionally, I utilized Roboflow to develop AI solutions tailored for the banking sector.
 
