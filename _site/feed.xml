@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-28T16:13:44+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SAMAHA Pierre</title><subtitle>Data Scientist with a robut background, including a Master&apos;s Degree in Engineering from Mines Paris (Diplôme d&apos;Ingénieur) and a proven track record at IBM across diverse domains, including industry, finance, real estate, energy, public work and e-commerce. Currently developing Clara AI, an assistant data scientist designed to streamline code writing and enhance AI-driven solutions. Passionate about advancing the AI field, I focus on creating innovative tools that help businesses harness the full potential of AI for growth and efficiency. My aim is to push the boundaries of AI, automating processes and unlocking new opportunities for organizations
-</subtitle><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><entry><title type="html">CLARA AI My Data Sceintist Assistant</title><link href="http://localhost:4000/example/2024-09-01-CLARA-AI-My-Data-Scientist-Assistant/" rel="alternate" type="text/html" title="CLARA AI My Data Sceintist Assistant" /><published>2024-09-01T00:00:00+02:00</published><updated>2024-09-28T16:13:35+02:00</updated><id>http://localhost:4000/example/CLARA-AI-My-Data-Scientist-Assistant</id><content type="html" xml:base="http://localhost:4000/example/2024-09-01-CLARA-AI-My-Data-Scientist-Assistant/"><![CDATA[<p>CLARA AI is a personal project I built for myself to help me build machine learning code for any task. I have meticulously created each step of the machine learning pipeline so that I can generate code easily thanks to a step-by-step guided tool with all the information in a single interface. I can ask CLARA AI any other question with the built-in chat using LLM generative AI and then add the answer to the code.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-09-28T19:12:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SAMAHA Pierre</title><subtitle>Data Scientist with a robut background, including a Master&apos;s Degree in Engineering from Mines Paris (Diplôme d&apos;Ingénieur) and a proven track record at IBM across diverse domains, including industry, finance, real estate, energy, public work and e-commerce. Currently developing Clara AI, an assistant data scientist designed to streamline code writing and enhance AI-driven solutions. Passionate about advancing the AI field, I focus on creating innovative tools that help businesses harness the full potential of AI for growth and efficiency. My aim is to push the boundaries of AI, automating processes and unlocking new opportunities for organizations
+</subtitle><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><entry><title type="html">CLARA AI My Data Scientist Assistant</title><link href="http://localhost:4000/example/2024-09-01-CLARA-AI-My-Data-Scientist-Assistant/" rel="alternate" type="text/html" title="CLARA AI My Data Scientist Assistant" /><published>2024-09-01T00:00:00+02:00</published><updated>2024-09-28T16:13:55+02:00</updated><id>http://localhost:4000/example/CLARA-AI-My-Data-Scientist-Assistant</id><content type="html" xml:base="http://localhost:4000/example/2024-09-01-CLARA-AI-My-Data-Scientist-Assistant/"><![CDATA[<p>CLARA AI is a personal project I built for myself to help me build machine learning code for any task. I have meticulously created each step of the machine learning pipeline so that I can generate code easily thanks to a step-by-step guided tool with all the information in a single interface. I can ask CLARA AI any other question with the built-in chat using LLM generative AI and then add the answer to the code.</p>
 
 <h2 id="you-are-in-control">You are in Control</h2>
 
@@ -23,7 +23,7 @@ CLARA AI is designed to save time for a data scientist. It is no black box, as y
 
 <p><img src="/assets/img/blog/claraai.gif" alt="Gif" class="lead" width="1500" height="600" /></p>
 
-<p>[Full link with explanations]</p>
+<p><a href="https://x.com/ClaraJuniorDS/status/1838533934226821583">Full link with explanations</a></p>
 
 <p>In this demo, we choose a regression task. First, we upload the data to be read and analyzed, then specify the target variable we want to predict. Clara AI generates the corresponding Python machine learning code in real-time. It also provides fully interactive visualizations to aid in data analysis.</p>
 
@@ -37,7 +37,7 @@ CLARA AI is designed to save time for a data scientist. It is no black box, as y
 
 <h2 id="better-data-scientists">Better DATA Scientists</h2>
 
-<p>AI won’t take the job of a data scientist. Data scientists that use AI wisely work better and faster. They must always be in control of what they do. This is how CLARA AI differs from anypother autoML tool. Jobs are changing not disappearing. We need to improve our job and add to them. Instead of fearing that AI will eliminate jobs, let’s see how it helps us, as data scientist or not, to create new and better ones. CLARA AI helpes me with my work to create faster and complete code with no missing steps.</p>]]></content><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><category term="example" /><summary type="html"><![CDATA[Introducing Clara AI: The AI data scientist designed to help you generate ML code in hours, not weeks!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/clarablog.png" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/clarablog.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Everything You Need To Know About Time Series</title><link href="http://localhost:4000/example/2024-08-08-Everything-You-Need-to-Know-about-Time-Series/" rel="alternate" type="text/html" title="Everything You Need To Know About Time Series" /><published>2024-08-08T00:00:00+02:00</published><updated>2024-09-28T14:23:44+02:00</updated><id>http://localhost:4000/example/Everything-You-Need-to-Know-about-Time-Series</id><content type="html" xml:base="http://localhost:4000/example/2024-08-08-Everything-You-Need-to-Know-about-Time-Series/"><![CDATA[<!--more-->
+<p>AI won’t take the job of a data scientist. Data scientists that use AI wisely work better and faster. They must always be in control of what they do. This is how CLARA AI differs from anypother autoML tool. Jobs are changing not disappearing. We need to improve our job and add to them. Instead of fearing that AI will eliminate jobs, let’s see how it helps us, as data scientist or not, to create new and better ones. CLARA AI helpes me with my work to create faster and complete code with no missing steps.</p>]]></content><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><category term="example" /><summary type="html"><![CDATA[Introducing Clara AI: The AI data scientist designed to help you generate ML code in hours, not weeks!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/clarablog.png" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/clarablog.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Everything You Need To Know About Time Series</title><link href="http://localhost:4000/example/2024-08-08-Everything-You-Need-to-Know-about-Time-Series/" rel="alternate" type="text/html" title="Everything You Need To Know About Time Series" /><published>2024-08-08T00:00:00+02:00</published><updated>2024-09-28T16:13:55+02:00</updated><id>http://localhost:4000/example/Everything-You-Need-to-Know-about-Time-Series</id><content type="html" xml:base="http://localhost:4000/example/2024-08-08-Everything-You-Need-to-Know-about-Time-Series/"><![CDATA[<!--more-->
 
 <h2 id="introduction">Introduction</h2>
 
@@ -201,7 +201,7 @@ From ACF(at y=0), get Q</p>
 
 <p>We can also use classification after extracting features from the date.</p>
 
-<p>In addition, Anomaly detection in time series data may be accomplished using unsupervised learning approaches like clustering, PCA (Principal Component Analysis), and autoencoders. The autoencoder is an unsupervised neural network that learns to reconstruct its input data by first compressing input data into a lower-dimensional representation and then extending it back to its original dimensions. An autoencoder may be trained on typical time series data to learn a compressed version of the data for anomaly identification. The anomaly score may then be calculated using the reconstruction error between the original and reconstructed data.</p>]]></content><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><category term="example" /><summary type="html"><![CDATA[This guide severs as a comprehensive container for various key topics in time series analysis. It highlights only the essential concepts and headings you need to be familiar with before addressing a time series problem. If you're unsure about any topic, you can easily google it and look it up for further details.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/timeseries.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/timeseries.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sustainability et GenAI</title><link href="http://localhost:4000/example/2024-03-01-Sustainability-et-GenAI/" rel="alternate" type="text/html" title="Sustainability et GenAI" /><published>2024-03-01T00:00:00+01:00</published><updated>2024-09-28T15:27:51+02:00</updated><id>http://localhost:4000/example/Sustainability%20et%20GenAI</id><content type="html" xml:base="http://localhost:4000/example/2024-03-01-Sustainability-et-GenAI/"><![CDATA[<p>Measuring the environmental impact of digital: Why estimate carbon emissions (quantity of CO₂e emissions)?</p>
+<p>In addition, Anomaly detection in time series data may be accomplished using unsupervised learning approaches like clustering, PCA (Principal Component Analysis), and autoencoders. The autoencoder is an unsupervised neural network that learns to reconstruct its input data by first compressing input data into a lower-dimensional representation and then extending it back to its original dimensions. An autoencoder may be trained on typical time series data to learn a compressed version of the data for anomaly identification. The anomaly score may then be calculated using the reconstruction error between the original and reconstructed data.</p>]]></content><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><category term="example" /><summary type="html"><![CDATA[This guide severs as a comprehensive container for various key topics in time series analysis. It highlights only the essential concepts and headings you need to be familiar with before addressing a time series problem. If you're unsure about any topic, you can easily google it and look it up for further details.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/timeseries.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/timeseries.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sustainability et GenAI</title><link href="http://localhost:4000/example/2024-03-01-Sustainability-et-GenAI/" rel="alternate" type="text/html" title="Sustainability et GenAI" /><published>2024-03-01T00:00:00+01:00</published><updated>2024-09-28T16:13:55+02:00</updated><id>http://localhost:4000/example/Sustainability%20et%20GenAI</id><content type="html" xml:base="http://localhost:4000/example/2024-03-01-Sustainability-et-GenAI/"><![CDATA[<p>Measuring the environmental impact of digital: Why estimate carbon emissions (quantity of CO₂e emissions)?</p>
 
 <ul>
   <li>Refine practices by using figures to determine whether an investment in a project is justified.</li>
@@ -245,190 +245,77 @@ Or simply because, as Niels Bohr put it, “Nothing exists until it is measured�
 
 <p><img src="/assets/img/blog/footprintcarbon.png" alt="drawing" width="800" /></p>
 
-<p>For an example of the Llama2 generative model, the model emitted an average of 0.0002kg of CO2 with the GPU environment. By repeating the experiment 100 times to make more inferences with the same model, 0.1kg of carbon equivalent were emitted (equivalent to 31 minutes of TV or 0.03% of weekly US household emissions). To put this into perspective, 1 h of visio, for two, with the camera emits 66 g CO2e on average in France. So much for the figures! Now it’s up to you to imagine the impact of our future Generative Models on our carbon footprint. Who would have thought that our discussions could carry such weight?</p>]]></content><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><category term="example" /><summary type="html"><![CDATA[Start calculating the CO2 emissions of your GenAI models]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/Sustainability.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/Sustainability.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content II</title><link href="http://localhost:4000/example/2017-11-23-example-content-ii/" rel="alternate" type="text/html" title="Example Content II" /><published>2017-11-23T00:00:00+01:00</published><updated>2024-09-25T11:54:24+02:00</updated><id>http://localhost:4000/example/example-content-ii</id><content type="html" xml:base="http://localhost:4000/example/2017-11-23-example-content-ii/"><![CDATA[<p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
+<p>For an example of the Llama2 generative model, the model emitted an average of 0.0002kg of CO2 with the GPU environment. By repeating the experiment 100 times to make more inferences with the same model, 0.1kg of carbon equivalent were emitted (equivalent to 31 minutes of TV or 0.03% of weekly US household emissions). To put this into perspective, 1 h of visio, for two, with the camera emits 66 g CO2e on average in France. So much for the figures! Now it’s up to you to imagine the impact of our future Generative Models on our carbon footprint. Who would have thought that our discussions could carry such weight?</p>]]></content><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><category term="example" /><summary type="html"><![CDATA[Start calculating the CO2 emissions of your GenAI models]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/Sustainability.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/Sustainability.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Introduction</title><link href="http://localhost:4000/example/2013-11-23-Aneurysm-Segmentation/" rel="alternate" type="text/html" title="Introduction" /><published>2013-11-23T00:00:00+01:00</published><updated>2024-09-28T19:11:45+02:00</updated><id>http://localhost:4000/example/Aneurysm-Segmentation</id><content type="html" xml:base="http://localhost:4000/example/2013-11-23-Aneurysm-Segmentation/"><![CDATA[<p>An intracranial aneurysm (IA) is a weakened or thinned portion of a blood vessel in the brain that bulges dangerously and fills up with blood, which can compress surrounding nerves and brain tissue and have a high risk of rupture. The process of identifying aneurysms requires manual identification by medical experts, taking several minutes per case. Automating this process is a worthwhile venture, which can also open up new avenues for research through obtaining large segmented datasets.</p>
 
-<p>There should be whitespace between paragraphs.</p>
+<p>Over the last decade, many extraction algorithms have been designed by calculating local geometric features; however, rule-based methods have high computational costs and time requirements, and their performance is limited because of the wide variety of aneurysm shapes.</p>
 
-<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+<p>Deep learning techniques are becoming popular in medical image processing and one proposed model takes a surface model of an entire set of principal brain arteries containing aneurysms as input and returns aneurysm surfaces as output.</p>
 
-<p><a href="another-page">Link to another page</a>.</p>
+<p>One way to segment 3D dataset is just by looking at one 2d Slice at a time, training a 2D unet, predicting each 2d slice and combine the volume together, which works fine in most cases, but not be the ideal choice for a lot of 3D data set because we probably need information from the few planes below and above. Our proposed model takes a surface model of an entire set of principal brain arteries containing aneurysms as input and returns aneurysm surfaces as output.</p>
 
-<ul class="large-only" id="markdown-toc">
-  <li><a href="#header-2" id="markdown-toc-header-2">Header 2</a>    <ul>
-      <li><a href="#header-3" id="markdown-toc-header-3">Header 3</a>        <ul>
-          <li><a href="#header-4" id="markdown-toc-header-4">Header 4</a>            <ul>
-              <li><a href="#header-5" id="markdown-toc-header-5">Header 5</a>                <ul>
-                  <li><a href="#header-6" id="markdown-toc-header-6">Header 6</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li><a href="#theres-a-horizontal-rule-below-this" id="markdown-toc-theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</a></li>
-      <li><a href="#here-is-an-unordered-list" id="markdown-toc-here-is-an-unordered-list">Here is an unordered list:</a></li>
-      <li><a href="#and-an-ordered-list" id="markdown-toc-and-an-ordered-list">And an ordered list:</a></li>
-      <li><a href="#and-a-nested-list" id="markdown-toc-and-a-nested-list">And a nested list:</a></li>
-      <li><a href="#small-image" id="markdown-toc-small-image">Small image</a></li>
-      <li><a href="#large-image" id="markdown-toc-large-image">Large image</a></li>
-      <li><a href="#definition-lists" id="markdown-toc-definition-lists">Definition lists</a></li>
-    </ul>
-  </li>
-</ul>
+<h2 id="objective">Objective</h2>
 
-<h2 id="header-2">Header 2</h2>
+<p>Precise segmentation of pre-detected aneurysms: The model we propose takes as input a surface model of a complete set of main cerebral arteries (3D MRI data) containing aneurysms and returns the aneurysm surfaces as output.</p>
 
-<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
-
-<h3 id="header-3">Header 3</h3>
-
-<blockquote>
-  <p>This is a blockquote following a header.</p>
-
-  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
-</blockquote>
-
-<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
-<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nf">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nf">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">./lang/</span><span class="dl">'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
-  <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby code with syntax highlighting</span>
-<span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
-  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
-<span class="k">end</span>
-</code></pre></div></div>
-
-<h4 id="header-4">Header 4</h4>
-
-<ul>
-  <li>This is an unordered list following a header.</li>
-  <li>This is an unordered list following a header.</li>
-  <li>This is an unordered list following a header.</li>
-</ul>
-
-<h5 id="header-5">Header 5</h5>
+<h2 id="dataset-and-challenges">Dataset and Challenges</h2>
 
 <ol>
-  <li>This is an ordered list following a header.</li>
-  <li>This is an ordered list following a header.</li>
-  <li>This is an ordered list following a header.</li>
+  <li>Working on real-life data, fresh from the hospital: 105 scans (3D MRI data)
+This is one of the main challenge: the low number of training data, and the complexity and size of the data (about 3cm x 7cm x 7cm) we have.</li>
+  <li>The input images are 192 by 192 by 64, we cannot load all of that into the memory.</li>
 </ol>
 
-<h6 id="header-6">Header 6</h6>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">head1</th>
-      <th style="text-align: left">head two</th>
-      <th style="text-align: left">three</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good swedish fish</td>
-      <td style="text-align: left">nice</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">out of stock</td>
-      <td style="text-align: left">good and plenty</td>
-      <td style="text-align: left">nice</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">oreos</code></td>
-      <td style="text-align: left">hmm</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">zoute</code> drop</td>
-      <td style="text-align: left">yumm</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</h3>
-
-<hr />
-
-<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
-
-<ul>
-  <li>Item foo</li>
-  <li>Item bar</li>
-  <li>Item baz</li>
-  <li>Item zip</li>
-</ul>
-
-<h3 id="and-an-ordered-list">And an ordered list:</h3>
+<h2 id="preprocessing-data">Preprocessing Data</h2>
 
 <ol>
-  <li>Item one</li>
-  <li>Item two</li>
-  <li>Item three</li>
-  <li>Item four</li>
+  <li>Simple augmentation that preserves the physical aspect of the data:</li>
 </ol>
 
-<h3 id="and-a-nested-list">And a nested list:</h3>
-
 <ul>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item
-        <ul>
-          <li>level 3 item</li>
-          <li>level 3 item</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item</li>
+  <li><strong>Offline Augmentation</strong>: Offline augmentation can dramatically increase the size of the dataset: Flipping, rotation</li>
+  <li><strong>Online Augmentation</strong>: changing the sliding axis from xyz to xzy or yzx
+<img src="/assets/img/blog/onlineaug.png" alt="drawing" width="500" /></li>
 </ul>
 
-<h3 id="small-image">Small image</h3>
+<ol>
+  <li>We then divide these into patches of 64 by 64 by 64: The resolution of input 3D data is the primary reason behind the need for large memory and higher computation complexity in training a 3D CNN segmentation model. However, this could be circumvented with a patch-based approach. In patch-wise approach, the input 3D images are converted to small 3D sub-samples and analyzed individually. Finally, the patch-wise prediction outcomes will be merged to create the final 3D prediction map. The methodology uses cropped 3D patches of size (64 × 64× 64). The patch-based segmentation helps to reduce the hardware resources for training and generates a large number of data samples that favor adequate learning. However, the patch-wise analysis often fails to extract global features from the actual image volumes. This may limit the learning performance when the abnormality is region-specific.</li>
+</ol>
 
-<p><img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" alt="" /></p>
+<p>Randomly eliminate some patches that do not contain an aneurysm at all, To balance the number of training samples with and without aneurysms. Many of these patches remain in the data because they are considered useful for knowing when there is an aneurysm and when there is not.</p>
 
-<h3 id="large-image">Large image</h3>
+<ol>
+  <li>Image generator method
+This amount of data and its size (3D) is not possible to hold into memory so we will be using a generator method that will yield batches. When encountering a problem where the dataset used is too big to be loaded into memory at once that is being run on RAM. For example, we won’t be able to load all those images into memory before training.So, if we create a data generator, we can read images on the go when they will be used for training. Since we are reading the images on the go, we are saving memory.</li>
+</ol>
 
-<p><img src="https://guides.github.com/activities/hello-world/branching.png" alt="" /></p>
+<p>we train the model on these patches, we load the next volume , then train the model then so on.
+<img src="/assets/img/blog/preprocessing.png" alt="drawing" width="500" /></p>
 
-<h3 id="definition-lists">Definition lists</h3>
+<h2 id="modeling">Modeling</h2>
 
-<dl>
-  <dt>Name</dt>
-  <dd>Godzilla</dd>
-  <dt>Born</dt>
-  <dd>1952</dd>
-  <dt>Birthplace</dt>
-  <dd>Japan</dd>
-  <dt>Color</dt>
-  <dd>Green</dd>
-</dl>
+<p>The 3D U-Net architecture is quite similar to the U-Net.
+It comprises of an analysis path (left) and a synthesis path (right).
+In the analysis path, each layer contains two 3×3×3 convolutions each followed by a ReLU, and then a 2×2×2 max pooling with strides of two in each dimension.
+In the synthesis path, each layer consists of an up-convolution of 2×2×2 by strides of two in each dimension, followed by two 3×3×3 convolutions each followed by a ReLU.
+Shortcut connections from layers of equal resolution in the analysis path provide the essential high-resolution features to the synthesis path.
+In the last layer, a 1×1×1 convolution reduces the number of output channels to the number of labels which is 3.
+batch normalization (\BN”) before each ReLU.
+19069955 parameters in total.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. Or is it?
-</code></pre></div></div>
+<p><img src="/assets/img/blog/3Dunet.png" alt="drawing" width="500" /></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
-</code></pre></div></div>]]></content><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><category term="example" /><summary type="html"><![CDATA[A page showing how regular markdown content is styled in Hydejack.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/example-content-ii.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/example-content-ii.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/example/2012-02-07-example-content/" rel="alternate" type="text/html" title="Example Content" /><published>2012-02-07T00:00:00+01:00</published><updated>2024-09-25T11:54:24+02:00</updated><id>http://localhost:4000/example/example-content</id><content type="html" xml:base="http://localhost:4000/example/2012-02-07-example-content/"><![CDATA[<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. <em>Aenean eu leo quam.</em> Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+<p>When trying with a 3D_unet from scatch, we got fluctuations in the training loss.
+Transfer learning: We can define backbones (ResNet50) that have pre-trained weights for faster and better convergence for the Unet.</p>
+
+<p><img src="/assets/img/blog/transferlearning.png" alt="drawing" width="500" /></p>
+
+<h2 id="metrics-and-loss">Metrics and Loss</h2>
+
+<p><img src="/assets/img/blog/metricsandloss.png" alt="drawing" width="500" /></p>
+
+<h1 id="prediction">Prediction</h1>
+
+<p>Instead of doing ensemble learning with different models, we have predict the 3D MRI test images with different rotation of the axis, reshape them then average the transformed predictions using simple average. This give better results than predicting one version of the input test.</p>]]></content><author><name>Pierre Samaha</name><email>pierre_samaha@hotmail.com</email></author><category term="example" /><summary type="html"><![CDATA[Healthcare and AI: Precise segmentation of 3D MRI images containing aneurysms using 3D-Unet]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/aneurysm.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/aneurysm.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/example/2012-02-07-example-content/" rel="alternate" type="text/html" title="Example Content" /><published>2012-02-07T00:00:00+01:00</published><updated>2024-09-25T11:54:24+02:00</updated><id>http://localhost:4000/example/example-content</id><content type="html" xml:base="http://localhost:4000/example/2012-02-07-example-content/"><![CDATA[<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. <em>Aenean eu leo quam.</em> Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
 
 <blockquote>
   <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>

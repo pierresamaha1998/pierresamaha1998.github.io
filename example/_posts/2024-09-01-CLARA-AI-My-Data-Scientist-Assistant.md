@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CLARA AI My Data Sceintist Assistant
+title: CLARA AI My Data Scientist Assistant
 description: >
   Introducing Clara AI: The AI data scientist designed to help you generate ML code in hours, not weeks!
 image:
@@ -44,3 +44,5 @@ Finally, after selecting the best model, users can either download the generated
 ## Better DATA Scientists
 
 AI won't take the job of a data scientist. Data scientists that use AI wisely work better and faster. They must always be in control of what they do. This is how CLARA AI differs from anypother autoML tool. Jobs are changing not disappearing. We need to improve our job and add to them. Instead of fearing that AI will eliminate jobs, let's see how it helps us, as data scientist or not, to create new and better ones. CLARA AI helpes me with my work to create faster and complete code with no missing steps.
+
+[Full link with explanations]: https://x.com/ClaraJuniorDS/status/1838533934226821583
