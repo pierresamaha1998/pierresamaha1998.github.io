@@ -18,7 +18,7 @@ Deep learning trend from Google Trend
 
 The representation of tabular data in image form via radar diagrams is a novelty or another method that remains to be explored and researched. The Vision Transformer [ViT] (ViT) is already used for image classification, so the aim is to see whether transforming tabular data into images can add value.
 
-<img src="/assets/img/blog/vit_architecture.jpg" alt="drawing" width="500"/>
+<img src="/assets/img/blog/vit_architecture.jpg" alt="drawing" width="450"/>
 
 Radar plots (also known as spider plots or radar charts) are a popular data visualisation tool that allows us to compare datasets by displaying multiple variables simultaneously on a 2-dimensional plot. Radar charts provide an excellent way to visualize one or more groups of values (depends if it is a binary classification or not) over multiple variables (features of the dataset) (see the image below).
 
