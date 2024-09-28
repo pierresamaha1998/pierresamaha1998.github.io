@@ -111,7 +111,7 @@ From ACF(at y=0), get Q
 
 ## **Other Models**
 
-- Transformers with time series: https://medium.com/intel-tech/how-to-apply-transformers-to-time-series-models-spacetimeformer-e452f2825d2e
+- Transformers with time series: [Link for Transformers with Time Series]
 - Regression after extracting features from the date:
 
 1. Rolling Statistics: Calculate rolling mean, median, or standard deviation over a moving window to capture trends and variations.
@@ -151,3 +151,5 @@ Anomalies can be identified by comparing the predicted values of a model like AR
 We can also use classification after extracting features from the date.
 
 In addition, Anomaly detection in time series data may be accomplished using unsupervised learning approaches like clustering, PCA (Principal Component Analysis), and autoencoders. The autoencoder is an unsupervised neural network that learns to reconstruct its input data by first compressing input data into a lower-dimensional representation and then extending it back to its original dimensions. An autoencoder may be trained on typical time series data to learn a compressed version of the data for anomaly identification. The anomaly score may then be calculated using the reconstruction error between the original and reconstructed data.
+
+[Link for Transformers with Time Series]: https://medium.com/intel-tech/how-to-apply-transformers-to-time-series-models-spacetimeformer-e452f2825d2e
