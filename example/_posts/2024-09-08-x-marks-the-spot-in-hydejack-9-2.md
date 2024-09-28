@@ -143,10 +143,10 @@ Multivariate Time Series: Involves multiple variables. The model learns from the
 2. Prep the data as chunks or buckets of x time steps and y features each
 3. Exposing a Conv2D to the above prepped data, which should hopefully make the algorithm task easier
 
-## **Use Case: Anomalies Detection in time series **
+## **Use Case: Anomalies Detection in time series**
 
-<img src="./assets/img/blog/timeseriesanomalies.png" alt="drawing" width="300"/>
-
+![drawing](./assets/img/blog/timeseriesanomalies.png){ width=50% }
+![](./assets/img/blog/timeseriesanomalies.png =100x20)
 Anomalies are data points that deviate significantly from the underlying pattern of the time series. These deviations can be caused by various factors such as sudden events, errors in data collection, or changes in the underlying process.
 
 Moving average and exponential smoothing are techniques used to smooth out noise and fluctuations in time series data. Anomalies can be detected by comparing the observed values to the smoothed values. Sudden deviations between the two may indicate the presence of anomalies. These methods are especially useful for detecting anomalies in data with seasonal patterns.
