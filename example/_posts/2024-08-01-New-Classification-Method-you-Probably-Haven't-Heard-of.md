@@ -8,11 +8,12 @@ description: >
 sitemap: false
 ---
 
-## Introduction
+## New Classification Method you Probably Haven't Heard of
 
 You've probably heard of many classification models for tabular data, from SVMs and logistic regression, to decision tree-based models such as Bagging or Boosting classifiers, to stacking models... This guide will introduce you to many other unconventional approaches, which you've probably never heard of, and which may offer new perspectives or lead to unexpected performance gains.
 
 Deep learning trend from Google Trend
+
 <img src="/assets/img/blog/deeplearningtrend.jpg" alt="drawing" width="500"/>
 
 The representation of tabular data in image form via radar diagrams is a novelty or another method that remains to be explored and researched. The Vision Transformer [ViT] (ViT) is already used for image classification, so the aim is to see whether transforming tabular data into images can add value.
@@ -45,6 +46,8 @@ Experimentation with different techniques and rigorous evaluation are always ess
 
 Future research could focus on optimizing image generation techniques (such as bar charts, for example) and exploring hybrid models that combine the strengths of transformers and traditional approaches. See this article about converting tabular data into prompts with LLMs that produce contextual embeddings for each row, enabling it to identify subtle correlations in the data. For churn prediction, these embeddings are then tabulated and integrated into a CatBoost model. [LLM for classification of tabular data]
 
+<img src="/assets/img/blog/optionclassification.jpg" alt="drawing"/>
+
 Links for reashers focusing on this field:
 
 [Link1]
@@ -55,9 +58,12 @@ Links for reashers focusing on this field:
 
 [Link4]
 
+[Link5]
+
 [Link1]: https://www.nature.com/articles/s41598-021-90923-y
 [Link3]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295598
 [Link2]: https://proceedings.neurips.cc/paper_files/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf
 [Link4]: https://www.sciencedirect.com/science/article/pii/S0167739X24003510
+[Link5]: https://arxiv.org/pdf/2401.15238
 [ViT]: https://huggingface.co/docs/transformers/model_doc/vit
 [LLM for classification of tabular data]: https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2024/57236/final/fin_irjmets1718378031.pdf
