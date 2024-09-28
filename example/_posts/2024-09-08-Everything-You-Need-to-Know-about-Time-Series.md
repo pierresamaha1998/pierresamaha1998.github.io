@@ -14,15 +14,15 @@ Everything You Need to Know about Time Series (Key Points)
 
 # **Everything You Need to Know about Time Series**
 
-## **Introduction**
+## Introduction
 
 This guide severs as a comprehensive container for various key topics in time series analysis. It highlights only the essential concepts and headings you need to be familiar with before addressing a time series problem. If you're unsure about any topic, you can easily google it and look it up for further details.
 
-## **Definition**
+## Definition
 
 Time Series is a series of observations taken at specified time intervals usually equal intervals.
 
-## **Resampling**
+## Resampling
 
 - Upsampling - Time series is resampled from low frequency to high frequency (Monthly to daily frequency). It involves filling or interpolating missing data
 - Downsampling - Time series is resampled from high frequency to low frequency (Weekly to monthly frequency). It involves aggregation of existing data.
