@@ -48,15 +48,15 @@ With Clara AI, I can build a machine learning code in a matter of hours, not day
 
 Mines Paris is recognized as one of the premier engineering schools in France. I specialized in Artificial Intelligence and completed various courses in finance, economics, management, and virtual realities, among other subjects. Additionally, I hold a dual degree from the Lebanese University, where I earned an Engineer's degree in Electrical, Electronics, and Telecommunications.
 
-## International Internship Experience
+## International Internship Experiences
 
-I have completed two international internships that have enriched my practical experience in the field.
+I have completed two international internships that have enriched my practical experience in the field and proves my ability to adapt to the environment in which I work.
 
-The first was with Swissgrid, a transmission system operator in Switzerland, where I designed and developed an AI solution utilizing Natural Language Processing (NLP) and Unsupervised Machine Learning techniques. This solution effectively segmented alarm descriptions from the grid, significantly improving the management of substation alarms for operators in the control room.
+<img src="/assets/img/blog/Switzerland.png" alt="drawing" width="500"/> The first was with Swissgrid, a transmission system operator in Switzerland, where I designed and developed an AI solution utilizing Natural Language Processing (NLP) and Unsupervised Machine Learning techniques. This solution effectively segmented alarm descriptions from the grid, significantly improving the management of substation alarms for operators in the control room.
 
-My second internship was at a real estate startup in Norway, where the objective was to predict apartment prices in Oslo using AI. I took on comprehensive responsibilities throughout the project, from data acquisition and preprocessing to deploying the final solution. This experience enhanced my skills in end-to-end project management and deepened my understanding of applying AI in the real estate sector.
+<img src="/assets/img/blog/Norway.png" alt="drawing" width="500"/> My second internship was at a real estate startup in Norway, where the objective was to predict apartment prices in Oslo using AI. I took on comprehensive responsibilities throughout the project, from data acquisition and preprocessing to deploying the final solution. This experience enhanced my skills in end-to-end project management and deepened my understanding of applying AI in the real estate sector.
 
-I have also completed smaller internships in Lebanon, where I focused on customer segmentation for a telecommunications company and predicting customer churn. Additionally, I utilized Roboflow to develop AI solutions tailored for the banking sector.
+<img src="/assets/img/blog/Lebanon.png" alt="drawing" width="500"/> I have also completed smaller internships in Lebanon, where I focused on customer segmentation for a telecommunications company and predicting customer churn. Additionally, I utilized Roboflow to develop AI solutions tailored for the banking sector.
 
 ## Hackathon Enthusiast and Winner
 
