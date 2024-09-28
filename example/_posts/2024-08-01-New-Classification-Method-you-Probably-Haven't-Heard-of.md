@@ -1,6 +1,8 @@
 ---
 layout: post
 title: New Classification Method you Probably Haven't Heard of
+image:
+  path: /assets/img/blog/Sustainability.jpg
 description: >
   New Approach to Classification Based on Transformers, LLM, and Embedding
 sitemap: false
@@ -11,15 +13,15 @@ sitemap: false
 You've probably heard of many classification models for tabular data, from SVMs and logistic regression, to decision tree-based models such as Bagging or Boosting classifiers, to stacking models... This guide will introduce you to many other unconventional approaches, which you've probably never heard of, and which may offer new perspectives or lead to unexpected performance gains.
 
 Deep learning trend from Google Trend
-<img src="/assets/img/blog/deeplearningtrend.jpg" alt="drawing" width="800"/>
+<img src="/assets/img/blog/deeplearningtrend.jpg" alt="drawing" width="500"/>
 
 The representation of tabular data in image form via radar diagrams is a novelty or another method that remains to be explored and researched. The Vision Transformer [ViT] (ViT) is already used for image classification, so the aim is to see whether transforming tabular data into images can add value.
 
-<img src="/assets/img/blog/vit_architecture.jpg" alt="drawing" width="800"/>
+<img src="/assets/img/blog/vit_architecture.jpg" alt="drawing" width="600"/>
 
 Radar plots (also known as spider plots or radar charts) are a popular data visualisation tool that allows us to compare datasets by displaying multiple variables simultaneously on a 2-dimensional plot. Radar charts provide an excellent way to visualize one or more groups of values (depends if it is a binary classification or not) over multiple variables (features of the dataset) (see the image below).
 
-<img src="/assets/img/blog/radarimage.jpg" alt="drawing" width="800"/>
+<img src="/assets/img/blog/radarimage.jpg" alt="drawing" width="400"/>
 
 This could be an example of a method for transforming tabular data into images. Other methods involve representing each pixel of the image by the normalized value of the feature.
 
@@ -44,9 +46,13 @@ Experimentation with different techniques and rigorous evaluation are always ess
 Future research could focus on optimizing image generation techniques (such as bar charts, for example) and exploring hybrid models that combine the strengths of transformers and traditional approaches. See this article about converting tabular data into prompts with LLMs that produce contextual embeddings for each row, enabling it to identify subtle correlations in the data. For churn prediction, these embeddings are then tabulated and integrated into a CatBoost model. [LLM for classification of tabular data]
 
 Links for reashers focusing on this field:
+
 [Link1]
+
 [Link2]
+
 [Link3]
+
 [Link4]
 
 [Link1]: https://www.nature.com/articles/s41598-021-90923-y
