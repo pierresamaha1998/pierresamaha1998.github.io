@@ -36,9 +36,7 @@ I contributed to a variety of sectors, including e-commerce, industry, public se
 
 ## Developing my data scientist assistant, Clara AI
 
-Introducing Clara AI, my AI data scientist assistant designed to help me save time by generating machine learning code in real-time with a guided, step-by-step tool.
-
-I have meticulously crafted each step in machine learning pipeline, and, I can ask Clara to generate code using a large language model (LLM).
+CLARA AI is a personal project I built for myself to help me build machine learning code for any task. I have meticulously created each step of the machine learning pipeline so that I can generate code easily thanks to a step-by-step guided tool with all the information in a single interface. I can ask CLARA AI any other question with the built-in chat using LLM generative AI and then add the answer to the code.
 
 ![Gif](/assets/img/blog/claraai.gif){:.lead width="1500" height="600"}
 

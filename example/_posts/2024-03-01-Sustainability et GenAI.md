@@ -34,16 +34,15 @@ $${\color{green}CodeCarbon: \space the \space essential \space tool \space for \
 There's a tool that lets you make the estimate directly by integrating it into the code. CodeCarbon is an open-source Python package designed to estimate the carbon footprint of machine learning models and other applications. It takes into account hardware energy consumption, including GPU, CPU and RAM, as well as the carbon intensity of the computational region at fixed intervals, e.g. every 15 seconds. By monitoring energy consumption and multiplying by carbon intensity, CodeCarbon provides an estimate of the carbon dioxide equivalents (CO2e) used in a single run.
 
 Integrating CodeCarbon with the inference code is relatively straightforward, as this script demonstrates:
-<code style="color : Green">
-tracker = EmissionsTracker()  
-tracker.start()
 
-#code de l’inférence API pour appeler le modèle  
-#pour effectuer un l'inférence
+<code style="color : Green">tracker = EmissionsTracker()</code>
+<code style="color : Green">tracker.start()</code>
 
-model.predict(data)  
-emissions: float = tracker.stop()
-</code>
+<code style="color : Green">#code de l’inférence API pour appeler le modèle </code>
+<code style="color : Green">#pour effectuer un l'inférence</code>
+
+<code style="color : Green">model.predict(data)</code>
+<code style="color : Green">emissions: float = tracker.stop()</code>
 
 CodeCarbon has a built-in log that records data in a CSV file named emissions.csv in the output directory, for each experiment tracked across projects. The most important features are emissions (emissions in CO₂ equivalents [CO₂eq], in kg), emissions_rate (emissions divided by time, in kg/s), cpu_power (processor power (W)), gpu_power (GPU power (W)), ram_power (RAM power (W)), energy_consumed (sum of cpu_energy, gpu_energy and ram_energy (kWh)), Country_name (name of the country where the infrastructure is hosted), etc.
 
