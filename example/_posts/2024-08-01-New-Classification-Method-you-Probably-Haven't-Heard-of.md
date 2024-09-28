@@ -2,7 +2,7 @@
 layout: post
 title: New Classification Method you Probably Haven't Heard of
 image:
-  path: /assets/img/blog/optionclassification.jpg
+  path: /assets/img/blog/optionsclassification.png
 description: >
   New Approach to Classification Based on Transformers, LLM, and Embedding
 sitemap: false
@@ -46,7 +46,7 @@ Experimentation with different techniques and rigorous evaluation are always ess
 
 Future research could focus on optimizing image generation techniques (such as bar charts, for example) and exploring hybrid models that combine the strengths of transformers and traditional approaches. See this article about converting tabular data into prompts with LLMs that produce contextual embeddings for each row, enabling it to identify subtle correlations in the data. For churn prediction, these embeddings are then tabulated and integrated into a CatBoost model. [LLM for classification of tabular data]
 
-<img src="/assets/img/blog/optionclassification.jpg" alt="drawing"/>
+<img src="/assets/img/blog/optionsclassification.png" alt="drawing"/>
 
 Links for reashers focusing on this field:
 
