@@ -4,7 +4,6 @@ description: >
   This guide severs as a comprehensive container for various key topics in time series analysis. It highlights only the essential concepts and headings you need to be familiar with before addressing a time series problem. If you're unsure about any topic, you can easily google it and look it up for further details.
 image:
   path: /assets/img/blog/timeseries.jpg
-accent_image: /assets/img/blog/timeseries.jpg
 excerpt_separator: <!--more-->
 sitemap: false
 ---
