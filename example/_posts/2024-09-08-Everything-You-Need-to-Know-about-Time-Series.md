@@ -9,10 +9,7 @@ excerpt_separator: <!--more-->
 sitemap: false
 ---
 
-Everything You Need to Know about Time Series (Key Points)
-{:.lead}
-
-# **Everything You Need to Know about Time Series**
+# Everything You Need to Know about Time Series
 
 ## Introduction
 
