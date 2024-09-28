@@ -146,7 +146,7 @@ Multivariate Time Series: Involves multiple variables. The model learns from the
 ## **Use Case: Anomalies Detection in time series**
 
 ![100x100](/assets/img/blog/timeseriesanomalies.png "Large example image")
-![Screenshot](/assets/img/blog/timeseriesanomalies.png){:.lead width="150" height="60"}
+<img src="/assets/img/blog/timeseriesanomalies.png" alt="drawing" width="130"/>
 
 Anomalies are data points that deviate significantly from the underlying pattern of the time series. These deviations can be caused by various factors such as sudden events, errors in data collection, or changes in the underlying process.
 
