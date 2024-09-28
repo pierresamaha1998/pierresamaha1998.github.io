@@ -1,22 +1,16 @@
 ---
 layout: post
 description: >
-  This feature release adds new social media icons for 2024 and makes dark mode available to everyone.
+  This guide severs as a comprehensive container for various key topics in time series analysis. It highlights only the essential concepts and headings you need to be familiar with before addressing a time series problem. If you're unsure about any topic, you can easily google it and look it up for further details.
 image:
   path: /assets/img/blog/timeseries.jpg
-  srcset:
-    1920w: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
-    960w: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash@0,5x.jpg
-    480w: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash@0,25x.jpg
-accent_image: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
+accent_image: /assets/img/blog/timeseries.jpg
 excerpt_separator: <!--more-->
 sitemap: false
 ---
 
 Everything You Need to Know about Time Series (Key Points)
 {:.lead}
-
-[Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [Built-In Search](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
 
 # **Everything You Need to Know about Time Series**
 
