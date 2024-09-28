@@ -7,7 +7,7 @@ image: /assets/img/blog/aneurysm.jpg
 sitemap: false
 ---
 
-## Introduction
+## Aneurysm Segmentation
 
 An intracranial aneurysm (IA) is a weakened or thinned portion of a blood vessel in the brain that bulges dangerously and fills up with blood, which can compress surrounding nerves and brain tissue and have a high risk of rupture.
 

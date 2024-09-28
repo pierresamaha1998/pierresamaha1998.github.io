@@ -46,6 +46,8 @@ Experimentation with different techniques and rigorous evaluation are always ess
 
 Future research could focus on optimizing image generation techniques (such as bar charts, for example) and exploring hybrid models that combine the strengths of transformers and traditional approaches. See this article about converting tabular data into prompts with LLMs that produce contextual embeddings for each row, enabling it to identify subtle correlations in the data. For churn prediction, these embeddings are then tabulated and integrated into a CatBoost model. [LLM for classification of tabular data]
 
+Different Approches (unconventional approches) for classying tabular data:
+
 <img src="/assets/img/blog/optionsclassification.png" alt="drawing"/>
 
 Links for reashers focusing on this field:
