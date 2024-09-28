@@ -3,7 +3,7 @@ layout: post
 description: >
   This feature release adds new social media icons for 2024 and makes dark mode available to everyone.
 image:
-  path: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
+  path: /assets/img/blog/timeseries.jpg
   srcset:
     1920w: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
     960w: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash@0,5x.jpg
@@ -12,6 +12,11 @@ accent_image: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
 excerpt_separator: <!--more-->
 sitemap: false
 ---
+
+Everything You Need to Know about Time Series (Key Points)
+{:.lead}
+
+[Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [Built-In Search](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
 
 # **Everything You Need to Know about Time Series**
 
@@ -145,8 +150,7 @@ Multivariate Time Series: Involves multiple variables. The model learns from the
 
 ## **Use Case: Anomalies Detection in time series**
 
-![100x100](/assets/img/blog/timeseriesanomalies.png "Large example image")
-<img src="/assets/img/blog/timeseriesanomalies.png" alt="drawing" width="130"/>
+<img src="/assets/img/blog/timeseriesanomalies.png" alt="drawing" width="800"/>
 
 Anomalies are data points that deviate significantly from the underlying pattern of the time series. These deviations can be caused by various factors such as sudden events, errors in data collection, or changes in the underlying process.
 
