@@ -1,13 +1,12 @@
 ---
 layout: post
 title: New Classification Method you Probably Haven't Heard of
-image:
-  path: /assets/img/blog/deeplearningtrend.jpg
 description: >
   New Approach to Classification Based on Transformers, LLM, and Embedding
 sitemap: false
-hide_last_modified: true
 ---
+
+## Introduction
 
 You've probably heard of many classification models for tabular data, from SVMs and logistic regression, to decision tree-based models such as Bagging or Boosting classifiers, to stacking models... This guide will introduce you to many other unconventional approaches, which you've probably never heard of, and which may offer new perspectives or lead to unexpected performance gains.
 
@@ -20,7 +19,7 @@ The representation of tabular data in image form via radar diagrams is a novelty
 
 Radar plots (also known as spider plots or radar charts) are a popular data visualisation tool that allows us to compare datasets by displaying multiple variables simultaneously on a 2-dimensional plot. Radar charts provide an excellent way to visualize one or more groups of values (depends if it is a binary classification or not) over multiple variables (features of the dataset) (see the image below).
 
-<img src="/assets/img/blog/radarimage.ipg" alt="drawing" width="800"/>
+<img src="/assets/img/blog/radarimage.jpg" alt="drawing" width="800"/>
 
 This could be an example of a method for transforming tabular data into images. Other methods involve representing each pixel of the image by the normalized value of the feature.
 
@@ -51,8 +50,8 @@ Links for reashers focusing on this field:
 [Link4]
 
 [Link1]: https://www.nature.com/articles/s41598-021-90923-y
-[Link2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295598
-[Link3]: https://proceedings.neurips.cc/paper_files/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf
+[Link3]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295598
+[Link2]: https://proceedings.neurips.cc/paper_files/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf
 [Link4]: https://www.sciencedirect.com/science/article/pii/S0167739X24003510
 [ViT]: https://huggingface.co/docs/transformers/model_doc/vit
 [LLM for classification of tabular data]: https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2024/57236/final/fin_irjmets1718378031.pdf
