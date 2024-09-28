@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sustainability et GenAI
+title: Sustainability and GenAI
 image:
   path: /assets/img/blog/Sustainability.jpg
 description: >

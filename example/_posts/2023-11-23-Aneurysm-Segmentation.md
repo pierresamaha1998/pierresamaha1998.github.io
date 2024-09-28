@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example Content II
+title: Aneurysm Segmentation
 description: >
   Healthcare and AI: Precise segmentation of 3D MRI images containing aneurysms using 3D-Unet
 image: /assets/img/blog/aneurysm.jpg
